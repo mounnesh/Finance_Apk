@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297803469623",
+    "project_id": "financeapk-7296f",
+    "storage_bucket": "financeapk-7296f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297803469623:android:d3543279f4168a9a6100b2",
+        "android_client_info": {
+          "package_name": "com.talhaatif.financeapk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBteBr062qSxrFgvQKA4UU4NBM0PrJqOfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

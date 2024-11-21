@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FinTech</string>
+    <string name="login_your_account_here">Login your account here</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="do_not_have_register">Do not have Register?</string>
+    <string name="register_your_account">Register your account</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_phone_number">Enter your Phone Number</string>
+    <string name="enter_your_password_again">Enter your password again</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already Have Account?</string>
+    <string name="setting">Setting</string>
+    <string name="light_dark">Light Dark</string>
+    <string name="write_something">Write something…</string>
+    <string name="save">Save</string>
+    <string name="my_account">My account</string>
+    <string name="notifications">Notifications</string>
+    <string name="logout">Logout</string>
+    <string name="answer">Answer</string>
+    <string name="question">Question</string>
+    <string name="select_image">Select Image</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
