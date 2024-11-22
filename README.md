@@ -22,4 +22,6 @@ Visual Analytics: Charts and graphs make complex data easy to understand and can
 
 video link
 https://github.com/user-attachments/assets/b34f9bb0-0f79-4633-8ed6-eb7551043315
+
+ppt link
 [A Personal Finance Management App 2.pdf](https://github.com/user-attachments/files/17868785/A.Personal.Finance.Management.App.2.pdf)
